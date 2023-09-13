@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 🌐 **Web Development Enthusiast**: I recently graduated from the intensive Web Development bootcamp at Le Wagon, where I gained hands-on experience in HTML, CSS, JavaScript, Ruby, Ruby on Rails, and SQL.
 
 🚀 **Project Highlights**:
-- **[Sport Buddy](https://github.com/Hywel-L-Jones/Sport-Buddy) **: A web app connecting sports enthusiasts, showcasing my skills in Frontend Development and Ruby on Rails.
+- **[Sport Buddy](https://github.com/Hywel-L-Jones/Sport-Buddy)**: A web app connecting sports enthusiasts, showcasing my skills in Frontend Development and Ruby on Rails.
 
 🛠️ **Technical Skills**:
 - HTML
